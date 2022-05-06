@@ -3,3 +3,8 @@
 /my_checkpoint.pth.tar
 my_checkpoint.pth.tar
 /saved_images
+__pycache__/dataset.cpython-37.pyc
+__pycache__/model.cpython-37.pyc
+
+__pycache__/utils.cpython-37.pyc
+
