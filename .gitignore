@@ -1,0 +1,5 @@
+/data
+/_pycache_
+/my_checkpoint.pth.tar
+my_checkpoint.pth.tar
+/saved_images
