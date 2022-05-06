@@ -26,7 +26,7 @@ if __name__ == '__main__':
 
     counter = 0
 
-    for file_name in tqdm(list((train_path / 'labelled_images').glob('*'))):
+    for file_name in tqdm(list((train_path / 'ANNOTATED').glob('*'))):
 
         if counter%5 != 0:
 
